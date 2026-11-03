@@ -648,72 +648,72 @@ data,grupo,categoria,produto,uf,praca,indicador,unidade,valor,tendencia,coletado
 2026-10-30,Novilha gorda,,Novilha gorda,RR,Roraima,30 dias (desc. Funrural),R$/@,320.5,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
 2026-10-30,Novilha gorda,,Novilha gorda,RR,Roraima,À vista (desc. Senar),R$/@,322.0,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
 2026-10-30,Novilha gorda,,Novilha gorda,RR,Roraima,30 dias (desc. Senar),R$/@,325.5,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,SP,SP Barretos,Indicador,R$/@,388.31,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,SP,SP Barretos,Variação,R$/@,0.92,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,SP,SP Araçatuba,Indicador,R$/@,388.31,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,SP,SP Araçatuba,Variação,R$/@,0.92,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,MG,MG Triângulo,Indicador,R$/@,377.81,Desceu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,MG,MG Triângulo,Variação,R$/@,-0.3,Desceu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,MG,MG BH,Indicador,R$/@,381.5,Estável,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,MG,MG BH,Variação,R$/@,0.0,Estável,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,MG,MG Norte,Indicador,R$/@,373.47,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,MG,MG Norte,Variação,R$/@,0.26,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,MG,MG Sul,Indicador,R$/@,367.5,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,MG,MG Sul,Variação,R$/@,1.87,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,GO,GO Goiânia,Indicador,R$/@,367.95,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,GO,GO Goiânia,Variação,R$/@,0.78,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,GO,GO Reg. Sul,Indicador,R$/@,369.2,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,GO,GO Reg. Sul,Variação,R$/@,0.76,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,MS,MS Dourados,Indicador,R$/@,379.8,Desceu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,MS,MS Dourados,Variação,R$/@,-0.58,Desceu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,MS,MS C. Grande,Indicador,R$/@,379.32,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,MS,MS C. Grande,Variação,R$/@,0.09,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,MS,MS Três Lagoas,Indicador,R$/@,373.47,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,MS,MS Três Lagoas,Variação,R$/@,0.26,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,RS,RS Oeste,Indicador,R$/kg vivo,12.46,Desceu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,RS,RS Oeste,Variação,R$/kg vivo,-0.26,Desceu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,RS,RS Pelotas,Indicador,R$/kg vivo,12.74,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,RS,RS Pelotas,Variação,R$/kg vivo,0.04,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,BA,BA Sul,Indicador,R$/@,371.33,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,BA,BA Sul,Variação,R$/@,2.47,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,BA,BA Oeste,Indicador,R$/@,362.3,Desceu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,BA,BA Oeste,Variação,R$/@,-8.62,Desceu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,MT,MT Norte,Indicador,R$/@,360.0,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,MT,MT Norte,Variação,R$/@,3.33,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,MT,MT Sudoeste,Indicador,R$/@,358.0,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,MT,MT Sudoeste,Variação,R$/@,3.66,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,MT,MT Cuiabá,Indicador,R$/@,362.34,Desceu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,MT,MT Cuiabá,Variação,R$/@,-0.34,Desceu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,MT,MT Sudeste,Indicador,R$/@,360.0,Estável,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,MT,MT Sudeste,Variação,R$/@,0.0,Estável,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,PR,PR Noroeste,Indicador,R$/@,391.97,Estável,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,PR,PR Noroeste,Variação,R$/@,0.0,Estável,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,SC,SC,Indicador,R$/@,380.24,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,SC,SC,Variação,R$/@,2.02,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,MA,MA Oeste,Indicador,R$/@,368.0,Estável,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,MA,MA Oeste,Variação,R$/@,0.0,Estável,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,AL,Alagoas,Indicador,R$/@,370.0,Estável,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,AL,Alagoas,Variação,R$/@,0.0,Estável,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,PA,PA Marabá,Indicador,R$/@,372.94,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,PA,PA Marabá,Variação,R$/@,0.33,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,PA,PA Redenção,Indicador,R$/@,375.5,Estável,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,PA,PA Redenção,Variação,R$/@,0.0,Estável,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,PA,PA Paragominas,Indicador,R$/@,373.4,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,PA,PA Paragominas,Variação,R$/@,0.04,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,RO,RO Sudeste,Indicador,R$/@,359.33,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,RO,RO Sudeste,Variação,R$/@,0.06,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,TO,TO Sul,Indicador,R$/@,364.45,Desceu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,TO,TO Sul,Variação,R$/@,-0.02,Desceu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,TO,TO Norte,Indicador,R$/@,370.26,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,TO,TO Norte,Variação,R$/@,0.14,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,AC,Acre,Indicador,R$/@,343.75,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,AC,Acre,Variação,R$/@,3.12,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,ES,ES,Indicador,R$/@,378.54,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,ES,ES,Variação,R$/@,2.43,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,RJ,RJ,Indicador,R$/@,391.0,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,RJ,RJ,Variação,R$/@,2.0,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,RR,Roraima,Indicador,R$/@,355.5,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
-2026-10-30,Indicador do boi gordo,,Boi gordo,RR,Roraima,Variação,R$/@,1.75,Subiu,2026-10-31T12:46:43-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,SP,SP Barretos,Indicador,R$/@,388.81,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,SP,SP Barretos,Variação,R$/@,0.07,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,SP,SP Araçatuba,Indicador,R$/@,388.81,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,SP,SP Araçatuba,Variação,R$/@,0.07,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,MG,MG Triângulo,Indicador,R$/@,377.81,Desceu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,MG,MG Triângulo,Variação,R$/@,-0.3,Desceu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,MG,MG BH,Indicador,R$/@,381.5,Estável,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,MG,MG BH,Variação,R$/@,0.0,Estável,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,MG,MG Norte,Indicador,R$/@,373.47,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,MG,MG Norte,Variação,R$/@,0.26,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,MG,MG Sul,Indicador,R$/@,367.5,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,MG,MG Sul,Variação,R$/@,1.87,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,GO,GO Goiânia,Indicador,R$/@,367.95,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,GO,GO Goiânia,Variação,R$/@,0.78,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,GO,GO Reg. Sul,Indicador,R$/@,369.2,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,GO,GO Reg. Sul,Variação,R$/@,0.76,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,MS,MS Dourados,Indicador,R$/@,379.8,Desceu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,MS,MS Dourados,Variação,R$/@,-0.58,Desceu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,MS,MS C. Grande,Indicador,R$/@,379.32,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,MS,MS C. Grande,Variação,R$/@,0.09,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,MS,MS Três Lagoas,Indicador,R$/@,373.47,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,MS,MS Três Lagoas,Variação,R$/@,0.26,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,RS,RS Oeste,Indicador,R$/kg vivo,12.46,Desceu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,RS,RS Oeste,Variação,R$/kg vivo,-0.26,Desceu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,RS,RS Pelotas,Indicador,R$/kg vivo,12.74,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,RS,RS Pelotas,Variação,R$/kg vivo,0.04,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,BA,BA Sul,Indicador,R$/@,371.33,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,BA,BA Sul,Variação,R$/@,2.47,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,BA,BA Oeste,Indicador,R$/@,362.3,Desceu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,BA,BA Oeste,Variação,R$/@,-8.62,Desceu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,MT,MT Norte,Indicador,R$/@,360.0,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,MT,MT Norte,Variação,R$/@,3.33,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,MT,MT Sudoeste,Indicador,R$/@,358.0,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,MT,MT Sudoeste,Variação,R$/@,3.66,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,MT,MT Cuiabá,Indicador,R$/@,362.34,Desceu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,MT,MT Cuiabá,Variação,R$/@,-0.34,Desceu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,MT,MT Sudeste,Indicador,R$/@,360.0,Estável,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,MT,MT Sudeste,Variação,R$/@,0.0,Estável,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,PR,PR Noroeste,Indicador,R$/@,391.97,Estável,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,PR,PR Noroeste,Variação,R$/@,0.0,Estável,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,SC,SC,Indicador,R$/@,380.24,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,SC,SC,Variação,R$/@,2.02,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,MA,MA Oeste,Indicador,R$/@,368.0,Estável,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,MA,MA Oeste,Variação,R$/@,0.0,Estável,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,AL,Alagoas,Indicador,R$/@,370.0,Estável,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,AL,Alagoas,Variação,R$/@,0.0,Estável,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,PA,PA Marabá,Indicador,R$/@,372.94,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,PA,PA Marabá,Variação,R$/@,0.33,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,PA,PA Redenção,Indicador,R$/@,375.5,Estável,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,PA,PA Redenção,Variação,R$/@,0.0,Estável,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,PA,PA Paragominas,Indicador,R$/@,373.4,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,PA,PA Paragominas,Variação,R$/@,0.04,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,RO,RO Sudeste,Indicador,R$/@,359.33,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,RO,RO Sudeste,Variação,R$/@,0.06,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,TO,TO Sul,Indicador,R$/@,364.45,Desceu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,TO,TO Sul,Variação,R$/@,-0.02,Desceu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,TO,TO Norte,Indicador,R$/@,370.26,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,TO,TO Norte,Variação,R$/@,0.14,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,AC,Acre,Indicador,R$/@,343.75,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,AC,Acre,Variação,R$/@,3.12,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,ES,ES,Indicador,R$/@,378.54,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,ES,ES,Variação,R$/@,2.43,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,RJ,RJ,Indicador,R$/@,391.0,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,RJ,RJ,Variação,R$/@,2.0,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,RR,Roraima,Indicador,R$/@,355.5,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
+2026-10-30,Indicador do boi gordo,,Boi gordo,RR,Roraima,Variação,R$/@,1.75,Subiu,2026-11-03T14:54:06-03:00,Coleta própria
 2026-10-30,Reposição,Macho nelore,"Boi magro (375 kg 12,5@)",SP,SP,R$/cab,R$/cab,5298.16,,2026-10-31T12:46:43-03:00,Coleta própria
 2026-10-30,Reposição,Macho nelore,"Boi magro (375 kg 12,5@)",SP,SP,R$/kg,R$/kg,14.13,,2026-10-31T12:46:43-03:00,Coleta própria
 2026-10-30,Reposição,Macho nelore,"Boi magro (375 kg 12,5@)",SP,SP,Relação de troca,@ de boi gordo,13.76,,2026-10-31T12:46:43-03:00,Coleta própria
