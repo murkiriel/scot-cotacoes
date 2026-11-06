@@ -4689,6 +4689,12 @@
       "ultima_alteracao": "2026-11-05T15:05:38-03:00",
       "versoes": 1
     },
+    "Mercado futuro do boi": {
+      "linhas": 36,
+      "primeira_coleta": "2026-11-06T14:33:09-03:00",
+      "ultima_alteracao": "2026-11-06T14:33:09-03:00",
+      "versoes": 1
+    },
     "Milho": {
       "linhas": 34,
       "primeira_coleta": "2026-11-05T15:05:38-03:00",
@@ -4717,6 +4723,56 @@
       "linhas": 198,
       "primeira_coleta": "2026-11-05T15:05:38-03:00",
       "ultima_alteracao": "2026-11-05T15:05:38-03:00",
+      "versoes": 1
+    }
+  },
+  "2026-11-05": {
+    "Atacado": {
+      "linhas": 13,
+      "primeira_coleta": "2026-11-06T14:33:09-03:00",
+      "ultima_alteracao": "2026-11-06T14:33:09-03:00",
+      "versoes": 1
+    },
+    "Boi China": {
+      "linhas": 22,
+      "primeira_coleta": "2026-11-06T14:33:09-03:00",
+      "ultima_alteracao": "2026-11-06T14:33:09-03:00",
+      "versoes": 1
+    },
+    "Boi gordo": {
+      "linhas": 231,
+      "primeira_coleta": "2026-11-06T14:33:09-03:00",
+      "ultima_alteracao": "2026-11-06T14:33:09-03:00",
+      "versoes": 1
+    },
+    "Boi no mundo": {
+      "linhas": 8,
+      "primeira_coleta": "2026-11-06T14:33:09-03:00",
+      "ultima_alteracao": "2026-11-06T14:33:09-03:00",
+      "versoes": 1
+    },
+    "Couro e sebo": {
+      "linhas": 5,
+      "primeira_coleta": "2026-11-06T14:33:09-03:00",
+      "ultima_alteracao": "2026-11-06T14:33:09-03:00",
+      "versoes": 1
+    },
+    "Equivalentes": {
+      "linhas": 14,
+      "primeira_coleta": "2026-11-06T14:33:09-03:00",
+      "ultima_alteracao": "2026-11-06T14:33:09-03:00",
+      "versoes": 1
+    },
+    "Indicador do boi gordo": {
+      "linhas": 66,
+      "primeira_coleta": "2026-11-06T14:33:09-03:00",
+      "ultima_alteracao": "2026-11-06T14:33:09-03:00",
+      "versoes": 1
+    },
+    "Vaca gorda": {
+      "linhas": 198,
+      "primeira_coleta": "2026-11-06T14:33:09-03:00",
+      "ultima_alteracao": "2026-11-06T14:33:09-03:00",
       "versoes": 1
     }
   }
