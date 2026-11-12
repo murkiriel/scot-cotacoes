@@ -320,3 +320,187 @@ data,grupo,categoria,produto,uf,praca,indicador,unidade,valor,tendencia,coletado
 2026-10-01,Reposição,Macho nelore,"Desmama (8 M 195 kg 6,5@)",RJ,RJ,R$/cab,R$/cab,2968.33,,2026-10-02T15:08:15-03:00,Importado (boiapi)
 2026-10-01,Reposição,Macho nelore,"Desmama (8 M 195 kg 6,5@)",RJ,RJ,R$/kg,R$/kg,15.22,,2026-10-02T15:08:15-03:00,Importado (boiapi)
 2026-10-01,Reposição,Macho nelore,"Desmama (8 M 195 kg 6,5@)",RJ,RJ,Relação de troca,@ de boi gordo,8.25,,2026-10-02T15:08:15-03:00,Importado (boiapi)
+2026-10-01,Leite,,Leite,SP,Avaré,Qualidade mínimo,R$/L,2.84,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Avaré,Qualidade máximo,R$/L,2.84,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Avaré,Padrão mínimo,R$/L,2.57,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Avaré,Padrão máximo,R$/L,2.78,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Avaré,Média qualidade,R$/L,2.84,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Avaré,Média qualidade,US$/L,0.554,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Avaré,Média padrão,R$/L,2.675,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Avaré,Média padrão,US$/L,0.522,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Campinas,Qualidade mínimo,R$/L,2.4,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Campinas,Qualidade máximo,R$/L,2.5,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Campinas,Padrão mínimo,R$/L,1.7,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Campinas,Padrão máximo,R$/L,2.4,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Campinas,Média qualidade,R$/L,2.45,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Campinas,Média qualidade,US$/L,0.478,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Campinas,Média padrão,R$/L,2.133,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Campinas,Média padrão,US$/L,0.416,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Mococa,Qualidade mínimo,R$/L,2.925,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Mococa,Qualidade máximo,R$/L,3.1,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Mococa,Padrão mínimo,R$/L,2.26,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Mococa,Padrão máximo,R$/L,3.1,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Mococa,Média qualidade,R$/L,3.013,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Mococa,Média qualidade,US$/L,0.587,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Mococa,Média padrão,R$/L,2.793,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Mococa,Média padrão,US$/L,0.544,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Sorocaba,Qualidade mínimo,R$/L,2.4,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Sorocaba,Qualidade máximo,R$/L,2.4,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Sorocaba,Padrão mínimo,R$/L,1.8,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Sorocaba,Padrão máximo,R$/L,2.4,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Sorocaba,Média qualidade,R$/L,2.4,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Sorocaba,Média qualidade,US$/L,0.468,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Sorocaba,Média padrão,R$/L,2.164,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Sorocaba,Média padrão,US$/L,0.422,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Vale do Paraíba,Qualidade mínimo,R$/L,2.94,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Vale do Paraíba,Qualidade máximo,R$/L,3.1,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Vale do Paraíba,Padrão mínimo,R$/L,2.25,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Vale do Paraíba,Padrão máximo,R$/L,3.1,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Vale do Paraíba,Média qualidade,R$/L,3.02,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Vale do Paraíba,Média qualidade,US$/L,0.589,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Vale do Paraíba,Média padrão,R$/L,2.656,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Vale do Paraíba,Média padrão,US$/L,0.518,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Oeste Paulista,Qualidade mínimo,R$/L,2.4,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Oeste Paulista,Qualidade máximo,R$/L,2.4,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Oeste Paulista,Padrão mínimo,R$/L,2.0,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Oeste Paulista,Padrão máximo,R$/L,2.35,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Oeste Paulista,Média qualidade,R$/L,2.4,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Oeste Paulista,Média qualidade,US$/L,0.468,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Oeste Paulista,Média padrão,R$/L,2.183,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Oeste Paulista,Média padrão,US$/L,0.426,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,São Carlos,Qualidade mínimo,R$/L,2.4,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,São Carlos,Qualidade máximo,R$/L,2.5,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,São Carlos,Padrão mínimo,R$/L,1.9,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,São Carlos,Padrão máximo,R$/L,2.4,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,São Carlos,Média qualidade,R$/L,2.45,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,São Carlos,Média qualidade,US$/L,0.478,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,São Carlos,Média padrão,R$/L,2.2,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,São Carlos,Média padrão,US$/L,0.429,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Alta Mogiana,Qualidade mínimo,R$/L,2.4,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Alta Mogiana,Qualidade máximo,R$/L,2.75,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Alta Mogiana,Padrão mínimo,R$/L,1.7,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Alta Mogiana,Padrão máximo,R$/L,2.75,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Alta Mogiana,Média qualidade,R$/L,2.575,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Alta Mogiana,Média qualidade,US$/L,0.502,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Alta Mogiana,Média padrão,R$/L,2.322,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,Alta Mogiana,Média padrão,US$/L,0.453,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,São J. Rio Preto,Padrão mínimo,R$/L,1.8,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,São J. Rio Preto,Padrão máximo,R$/L,2.6,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,São J. Rio Preto,Média padrão,R$/L,2.343,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SP,São J. Rio Preto,Média padrão,US$/L,0.457,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,MG,Sul de Minas,Qualidade mínimo,R$/L,2.6,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,MG,Sul de Minas,Qualidade máximo,R$/L,3.371,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,MG,Sul de Minas,Padrão mínimo,R$/L,1.8,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,MG,Sul de Minas,Padrão máximo,R$/L,3.371,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,MG,Sul de Minas,Média qualidade,R$/L,2.857,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,MG,Sul de Minas,Média qualidade,US$/L,0.557,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,MG,Sul de Minas,Média padrão,R$/L,2.419,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,MG,Sul de Minas,Média padrão,US$/L,0.472,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,MG,Gov. Valadares,Padrão mínimo,R$/L,1.7,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,MG,Gov. Valadares,Padrão máximo,R$/L,2.5,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,MG,Gov. Valadares,Média padrão,R$/L,2.25,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,MG,Gov. Valadares,Média padrão,US$/L,0.439,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,MG,Belo Horizonte,Padrão mínimo,R$/L,1.8,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,MG,Belo Horizonte,Padrão máximo,R$/L,3.25,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,MG,Belo Horizonte,Média padrão,R$/L,2.699,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,MG,Belo Horizonte,Média padrão,US$/L,0.526,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,MG,Montes Claros,Padrão mínimo,R$/L,1.75,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,MG,Montes Claros,Padrão máximo,R$/L,2.7,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,MG,Montes Claros,Média padrão,R$/L,2.218,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,MG,Montes Claros,Média padrão,US$/L,0.432,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,MG,Triângulo Mineiro,Padrão mínimo,R$/L,1.7,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,MG,Triângulo Mineiro,Padrão máximo,R$/L,3.2,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,MG,Triângulo Mineiro,Média padrão,R$/L,2.451,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,MG,Triângulo Mineiro,Média padrão,US$/L,0.478,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,RJ,Rio de Janeiro,Qualidade mínimo,R$/L,3.1,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,RJ,Rio de Janeiro,Qualidade máximo,R$/L,3.1,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,RJ,Rio de Janeiro,Padrão mínimo,R$/L,2.05,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,RJ,Rio de Janeiro,Padrão máximo,R$/L,3.1,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,RJ,Rio de Janeiro,Média qualidade,R$/L,3.1,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,RJ,Rio de Janeiro,Média qualidade,US$/L,0.604,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,RJ,Rio de Janeiro,Média padrão,R$/L,2.7,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,RJ,Rio de Janeiro,Média padrão,US$/L,0.526,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,ES,Espírito Santo,Padrão mínimo,R$/L,1.8,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,ES,Espírito Santo,Padrão máximo,R$/L,2.92,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,ES,Espírito Santo,Média padrão,R$/L,2.24,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,ES,Espírito Santo,Média padrão,US$/L,0.437,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,GO,Goiânia,Padrão mínimo,R$/L,1.95,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,GO,Goiânia,Padrão máximo,R$/L,3.08,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,GO,Goiânia,Média padrão,R$/L,2.626,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,GO,Goiânia,Média padrão,US$/L,0.512,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,GO,Rio Verde,Padrão mínimo,R$/L,1.95,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,GO,Rio Verde,Padrão máximo,R$/L,2.5,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,GO,Rio Verde,Média padrão,R$/L,2.278,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,GO,Rio Verde,Média padrão,US$/L,0.444,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,GO,Catalão,Padrão mínimo,R$/L,1.8,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,GO,Catalão,Padrão máximo,R$/L,2.4,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,GO,Catalão,Média padrão,R$/L,2.15,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,GO,Catalão,Média padrão,US$/L,0.419,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,MS,Campo Grande,Padrão mínimo,R$/L,1.85,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,MS,Campo Grande,Padrão máximo,R$/L,2.75,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,MS,Campo Grande,Média padrão,R$/L,2.284,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,MS,Campo Grande,Média padrão,US$/L,0.445,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,MT,Mato Grosso,Padrão mínimo,R$/L,1.9,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,MT,Mato Grosso,Padrão máximo,R$/L,3.161,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,MT,Mato Grosso,Média padrão,R$/L,2.355,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,MT,Mato Grosso,Média padrão,US$/L,0.459,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,RO,Rondônia,Padrão mínimo,R$/L,1.66,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,RO,Rondônia,Padrão máximo,R$/L,2.87,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,RO,Rondônia,Média padrão,R$/L,2.09,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,RO,Rondônia,Média padrão,US$/L,0.407,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,PA,Pará,Padrão mínimo,R$/L,1.75,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,PA,Pará,Padrão máximo,R$/L,2.18,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,PA,Pará,Média padrão,R$/L,2.019,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,PA,Pará,Média padrão,US$/L,0.394,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,TO,Tocantins,Padrão mínimo,R$/L,2.0,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,TO,Tocantins,Padrão máximo,R$/L,2.491,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,TO,Tocantins,Média padrão,R$/L,2.193,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,TO,Tocantins,Média padrão,US$/L,0.428,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,PR,Maringá,Qualidade mínimo,R$/L,2.9,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,PR,Maringá,Qualidade máximo,R$/L,3.2,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,PR,Maringá,Padrão mínimo,R$/L,1.9,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,PR,Maringá,Padrão máximo,R$/L,3.2,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,PR,Maringá,Média qualidade,R$/L,3.05,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,PR,Maringá,Média qualidade,US$/L,0.595,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,PR,Maringá,Média padrão,R$/L,2.667,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,PR,Maringá,Média padrão,US$/L,0.52,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,PR,Castro,Padrão mínimo,R$/L,1.71,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,PR,Castro,Padrão máximo,R$/L,3.0,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,PR,Castro,Média padrão,R$/L,2.61,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,PR,Castro,Média padrão,US$/L,0.509,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SC,Santa Catarina,Padrão mínimo,R$/L,1.7,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SC,Santa Catarina,Padrão máximo,R$/L,3.119,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SC,Santa Catarina,Média padrão,R$/L,2.499,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,SC,Santa Catarina,Média padrão,US$/L,0.487,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,RS,Porto Alegre,Qualidade mínimo,R$/L,2.4,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,RS,Porto Alegre,Qualidade máximo,R$/L,2.46,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,RS,Porto Alegre,Padrão mínimo,R$/L,1.9,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,RS,Porto Alegre,Padrão máximo,R$/L,2.46,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,RS,Porto Alegre,Média qualidade,R$/L,2.43,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,RS,Porto Alegre,Média qualidade,US$/L,0.474,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,RS,Porto Alegre,Média padrão,R$/L,2.252,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,RS,Porto Alegre,Média padrão,US$/L,0.439,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,BA,Feira de Santana,Padrão mínimo,R$/L,1.9,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,BA,Feira de Santana,Padrão máximo,R$/L,3.5,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,BA,Feira de Santana,Média padrão,R$/L,2.555,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,BA,Feira de Santana,Média padrão,US$/L,0.498,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,BA,Itabuna,Padrão mínimo,R$/L,2.0,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,BA,Itabuna,Padrão máximo,R$/L,3.0,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,BA,Itabuna,Média padrão,R$/L,2.537,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,BA,Itabuna,Média padrão,US$/L,0.495,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,PE,Pernambuco,Padrão mínimo,R$/L,2.0,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,PE,Pernambuco,Padrão máximo,R$/L,3.0,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,PE,Pernambuco,Média padrão,R$/L,2.395,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,PE,Pernambuco,Média padrão,US$/L,0.467,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,CE,Ceará,Padrão mínimo,R$/L,2.18,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,CE,Ceará,Padrão máximo,R$/L,2.55,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,CE,Ceará,Média padrão,R$/L,2.397,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,CE,Ceará,Média padrão,US$/L,0.467,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,AL,Alagoas,Padrão mínimo,R$/L,2.0,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,AL,Alagoas,Padrão máximo,R$/L,2.68,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,AL,Alagoas,Média padrão,R$/L,2.317,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,AL,Alagoas,Média padrão,US$/L,0.452,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,MA,Maranhão,Padrão mínimo,R$/L,1.95,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,MA,Maranhão,Padrão máximo,R$/L,2.6,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,MA,Maranhão,Média padrão,R$/L,2.175,,2026-11-11T21:49:30-03:00,Coleta própria
+2026-10-01,Leite,,Leite,MA,Maranhão,Média padrão,US$/L,0.424,,2026-11-11T21:49:30-03:00,Coleta própria
